@@ -1,4 +1,5 @@
-![PXL_20220705_123253966](https://user-images.githubusercontent.com/103415409/177739095-2d8aa3a7-6245-4350-a70a-d1c9e37ba8a4.jpg)
+![Wallpaper_](https://user-images.githubusercontent.com/103415409/178434513-25596ec8-556d-428c-aa5c-83d9489bb070.jpg)  
+
 <p align="center">
     本專案將台灣布袋戲，結合互動設計與開放資源
 </p>
