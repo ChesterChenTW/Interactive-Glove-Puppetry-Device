@@ -18,4 +18,6 @@
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本資源平台提供的內容均以 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a> 授權。  
 允許重製、散布、傳輸以及修改著作（包括商業性利用），惟使用時須註明本平台的連結。
 
-注意⚠️：修改韌體（Firmware）文件將影響裝置控制機制，建議需具備基礎基礎程式能力，且後續一切毀損、危害自行負責。
+⚠️ 注意
+- 本平台僅作為內容提供，不對任何衍生或使用之損害負責，使用者須自行評估
+- 修改原始檔案（例如韌體）可能影響裝置控制機制，建議需具備一定工程能力
