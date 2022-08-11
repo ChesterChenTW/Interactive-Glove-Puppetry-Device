@@ -15,7 +15,7 @@
 1. 跟著[組裝指示](https://github.com/ChesterChenTW/Interactive-Glove-Puppetry-Device/wiki#%E7%B5%84%E8%A3%9D%E6%8C%87%E7%A4%BA)逐步完成！
 
 ## 授權條款
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本資源平台提供的內容均採用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。  
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本資源平台提供的內容均採用<a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.zh_TW">創用 CC 姓名標示 4.0 國際 授權條款</a>授權。  
 允許重製、散布、傳輸以及修改著作（包括商業性利用），惟使用時須註明本平台的連結。
 
 ⚠️ 注意
